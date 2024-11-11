@@ -1,41 +1,46 @@
-# Proyecto de Flutter
+# Flutter Project
 
-Este repositorio contiene el código fuente de mi primer proyecto en Flutter. Este proyecto fue desarrollado como parte de la asignatura [Nombre de la asignatura] en mi programa de Ingeniería en Computación Inteligente.
-
----
-
-## Datos Personales
-
-- **Estudiantes:** 
-Rafael Zamora Guerrero
-Jesús Emilio Manzano Morales
-- **Programa Académico:** Ingeniería en Computación Inteligente
-
-## Descripción del Proyecto
-
-Este proyecto en Flutter es una aplicación móvil para gestionar múltiples pantallas mediante un Login.
+This repository contains the source code of my first project in Flutter. This project was developed as part of the [Nombre de la asignatura] course in my Ingeniería en Computación Inteligente program.
 
 ---
 
-## Estructura del Proyecto
+## Personal Information
 
-- **Librerías Principales Usadas:**
+- **Students:** 
+  #### Rafael Zamora Guerrero
+  #### Jesús Emilio Manzano Morales
+
+- **Academic Program:** Ingeniería en Computación Inteligente
+
+- **Course:** Programación para dispositivos móviles
+
+- **Professor:** Jesús Alberto Verduzco Ramírez
+
+## Project Description
+
+This Flutter project is a mobile application for managing multiple screens through a Login system.
+
+---
+
+## Project Structure
+
+- **Main Libraries Used:**
   - Flutter (Dart)
 
-## Características
+## Features
 
-1. **Launch Screen** - Pantalla de bienvenida de la aplicación.
-2. **Activity Screen** - Pantalla de actividad, mostrando un saludo al usuario.
-3. **Warning Diaglog** - Cuadro de diálogo que muestra una advertencia cuando las credenciales son incorrectas.
+1. **Launch Screen** - Welcome screen of the application.
+2. **Activity Screen** - Activity screen, displaying a greeting to the user.
+3. **Warning Dialog** - Dialog box showing a warning when credentials are incorrect.
 
 ---
 
-## Capturas de Pantalla
+## Screenshots
 
-A continuación, se muestran las capturas de pantalla de la aplicación en orden de aparición:
+Below are the screenshots of the application in order of appearance:
 
-| Pantalla | Captura |
-|----------|---------|
+| Screen | Screenshot |
+|----------|-----------|
 | Launch Screen | <img src="screenshots/launch.png" width="200"> |
 | Main Screen   | <img src="screenshots/main.png" width="200"> |
 | Activity Screen | <img src="screenshots/activity.png" width="200"> |
