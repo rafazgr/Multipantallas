@@ -9,6 +9,7 @@ This repository contains the source code of my first project in Flutter. This pr
 - **Students:** 
   #### Rafael Zamora Guerrero
   #### Jesús Emilio Manzano Morales
+  #### Ana Isabel Sánchez Heredia 
 
 - **Academic Program:** Ingeniería en Computación Inteligente
 
