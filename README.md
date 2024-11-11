@@ -1,6 +1,6 @@
 # Flutter Project
 
-This repository contains the source code of my first project in Flutter. This project was developed as part of the [Nombre de la asignatura] course in my Ingeniería en Computación Inteligente program.
+This repository contains the source code of my first project in Flutter. This project was developed as part of the Mobile Development.
 
 ---
 
